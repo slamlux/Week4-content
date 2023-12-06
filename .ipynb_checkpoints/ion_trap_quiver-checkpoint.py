@@ -12,6 +12,8 @@ a=1
 b=10
 t=0#craig comment
 # Craigs comment for GitHub
+t=4 # new time
+# Lucas comment for GitHub
 #the constants
 plt.close('all')
 coords = np.linspace(-10, 10, 10)#define the limits for x axis
