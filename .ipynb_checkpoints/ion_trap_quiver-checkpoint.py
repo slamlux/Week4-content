@@ -5,7 +5,7 @@ Created on Tue Oct 10 14:03:59 2023
 @author: Administrator
 """
 #hello luca -craig
-
+#nice code 6/12/23 - craig
 import matplotlib.pyplot as plt
 import numpy as np
 a=1
