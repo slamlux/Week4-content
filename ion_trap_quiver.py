@@ -11,7 +11,7 @@ import numpy as np
 a=1
 b=10
 t=0
-# comment for GitHub
+# Craigs comment for GitHub
 #the constants
 plt.close('all')
 coords = np.linspace(-10, 10, 10)#define the limits for x axis
