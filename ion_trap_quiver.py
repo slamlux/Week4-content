@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 a=1
 b=10
-t=0
+t=4 # new time
 # Lucas comment for GitHub
 #the constants
 plt.close('all')
